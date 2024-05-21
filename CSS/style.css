@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Header */
+header{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.inline-block{
+    display: inline;
+}
+.logo{
+    
+    width: 85px;
+}
+.Testo-Logo{
+    font-size: 45px;
+}
+.vertical{
+    vertical-align: middle;
+}
