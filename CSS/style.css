@@ -28,7 +28,7 @@ main{
     padding: 40px 0px;
 }   
 .conteiner{
-    height: 1200px;;
+    height: 800px;;
     max-width: 1000px;;
     background-color: white;
     margin: 30px auto;
@@ -57,5 +57,71 @@ ul{
     list-style-type: none;
 }
 li{
-    margin: 16px 0px;
+    margin: 16px 0px 16px;
+}
+.cerchio{
+   padding: 5px 6px;
+   margin-right: 5px;
+}
+.verde{
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+}
+.cerchio-rosso{
+    padding: 5px 6px;
+    margin-right: 5px;
+}
+.bordi-rossi{
+    border: 1px solid red;
+    border-radius: 50%;
+    color: red;
+}
+.etichetta-azzurra{
+    background-color: rgb(0, 179, 255);
+    margin-left: 10px;
+    border-radius:6px;
+    color: white;
+    padding: 5px;
+    margin-top: 3px;
+}
+.etichetta-arancione{
+    background-color: rgb(255, 179, 0);
+    margin-left: 10px;
+    border-radius:6px;
+    color: white;
+    padding: 5px;
+    margin-top: 3px;
+}
+.etichetta-verde{
+    background-color: rgb(5, 177, 5);
+    margin-left: 10px;
+    border-radius:6px;
+    color: white;
+    padding: 5px;
+    margin-top: 3px;
+}
+.etichetta-viola{
+    background-color: rgb(205, 4, 188);
+    margin-left: 10px;
+    border-radius:6px;
+    color: white;
+    padding: 5px;
+    margin-top: 3px;
+}
+.etichetta-fucsia{
+    background-color: rgb(212, 0, 255);
+    margin-left: 10px;
+    border-radius:6px;
+    color: white;
+    padding: 5px;
+    margin-top: 3px;
+}
+.etichetta-verde-pisello{
+    background-color: rgb(19, 147, 19);
+    margin-left: 10px;
+    border-radius:6px;
+    color: white;
+    padding: 5px;
+    margin-top: 3px;
 }
