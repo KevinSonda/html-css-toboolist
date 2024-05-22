@@ -21,3 +21,17 @@ header{
 .vertical{
     vertical-align: middle;
 }
+/* Main */ 
+main{
+    height: 10000px;
+    background-color: lightslategray;
+    padding: 40px 0px;
+}   
+.conteiner{
+    height: 1200px;;
+    max-width: 1000px;;
+    background-color: white;
+    margin: 30px auto;
+    border-radius: 20px;
+    
+}
