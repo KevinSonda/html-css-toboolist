@@ -38,8 +38,6 @@ main{
     background-color: rgb(132, 219, 248);
     color: white;
     padding: 5px;
-    margin-left: 50px;
-    margin-top: 20px;
     border-radius: 10px;
 }
 .bottone-grigio{
@@ -47,4 +45,17 @@ main{
     color: rgb(187, 187, 187);
     padding: 5px;
     border-radius: 10px;
+}
+.bottoni{
+    border-bottom: 1px solid lightslategray;
+    padding: 10px 0px 10px 20px;
+}
+.task{
+    padding: 10px 0px 10px 20px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 16px 0px;
 }
